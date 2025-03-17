@@ -27,7 +27,7 @@ int main() {
 		}
 	}
 
-	cout << find_minimum_of_local_maxima(matrix, rows, cols);
+	cout << "Minim of local maximum: "<<find_minimum_of_local_maxima(matrix, rows, cols);
 
 
 
